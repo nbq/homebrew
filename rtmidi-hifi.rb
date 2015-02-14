@@ -1,6 +1,6 @@
 require "formula"
 
-class Rtmidi < Formula
+class RtmidiHifi < Formula
   homepage "http://www.music.mcgill.ca/~gary/rtmidi/"
   url "http://hifi-public.s3.amazonaws.com/dependencies/rtmidi-2.1.0.tar.gz"
   sha1 "e6e8fe7f67eb6dbf0504f72307a47a41e06b1652"
